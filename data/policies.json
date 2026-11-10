@@ -1,0 +1,73 @@
+[
+  {
+    "id": "pdpl",
+    "name": "Federal Decree Law No. 45/2021 — UAE Personal Data Protection Law",
+    "category": "legal",
+    "source_id": "uae_pdpl",
+    "summary_en": "Provides a national framework for personal-data confidentiality, lawful handling and data-subject rights.",
+    "summary_ar": "ينظم حماية البيانات الشخصية والسرية وضوابط المعالجة وحقوق أصحاب البيانات.",
+    "design_rules": [
+      "Collect only non-identifying status and eligibility information in this prototype.",
+      "Do not request or store Emirates ID numbers, passport numbers, or document images.",
+      "Never place personal identifiers in audit logs.",
+      "Disclose that third-party LLM processing is optional and require informed user choice."
+    ]
+  },
+  {
+    "id": "ai_strategy",
+    "name": "UAE National Strategy for AI 2031",
+    "category": "strategy",
+    "source_id": "uae_ai",
+    "summary_en": "Promotes AI adoption in government services to improve lives, and emphasizes skills, data, governance and infrastructure.",
+    "summary_ar": "تشجع الاستراتيجية تبني الذكاء الاصطناعي في الخدمات الحكومية وتحسين حياة الأفراد مع تطوير الحوكمة والبيانات والبنية التحتية.",
+    "design_rules": [
+      "Promote accessible Arabic/English self-service.",
+      "Measure usefulness and include human oversight."
+    ]
+  },
+  {
+    "id": "gov_ai_guidelines",
+    "name": "UAE AI Adoption Guideline in Government Services",
+    "category": "guideline",
+    "source_id": "uae_ai_guideline",
+    "summary_en": "Public-sector AI adoption guidance emphasizes responsible implementation, public value, readiness and governance.",
+    "summary_ar": "إرشادات لتبنّي الذكاء الاصطناعي في الخدمات الحكومية بصورة مسؤولة مع مراعاة الحوكمة وجاهزية التنفيذ.",
+    "design_rules": [
+      "Show official references and uncertainty.",
+      "Human review for missing/contradictory evidence."
+    ]
+  },
+  {
+    "id": "uae_pass",
+    "name": "UAE PASS access model",
+    "category": "platform",
+    "source_id": "uaepass",
+    "summary_en": "UAE PASS signs users in to participating service providers; applications are completed on the providers’ portals rather than from the UAE PASS app itself.",
+    "summary_ar": "تُستخدم الهوية الرقمية الإماراتية لتسجيل الدخول إلى مواقع الجهات المقدمة للخدمات، وليس لتقديم جميع المعاملات داخل تطبيق الهوية الرقمية نفسه.",
+    "design_rules": [
+      "Link to ICP service portal and never impersonate UAE PASS login."
+    ]
+  },
+  {
+    "id": "ai_readiness",
+    "name": "ITU AI Readiness Framework 2.0 (2026)",
+    "category": "framework",
+    "source_id": "itu_readiness",
+    "summary_en": "ITU framework groups readiness in data, digital infrastructure, digital skills, innovation ecosystem, and AI policy; its detailed framework also supports dimensions, indices and metrics.",
+    "summary_ar": "يقيّم إطار الجاهزية للذكاء الاصطناعي البيانات والبنية الرقمية والمهارات والابتكار وسياسات الذكاء الاصطناعي.",
+    "design_rules": [
+      "Track data provenance, open-source availability, inclusion, governance and measured tests."
+    ]
+  },
+  {
+    "id": "itu_y3172",
+    "name": "ITU-T Y.3172 ML pipeline reference",
+    "category": "standard",
+    "source_id": "itu_y3172",
+    "summary_en": "ITU-T Y.3172 defines architectural requirements and components for ML pipelines and their management and orchestration in future networks. This prototype uses an analogous modular pipeline; it does not claim formal conformity.",
+    "summary_ar": "يصف معيار ITU-T Y.3172 بنية خطوط تعلم الآلة وإدارتها وتنسيقها في الشبكات المستقبلية. يستخدم النموذج مضاهاة مفاهيمية دون ادعاء مطابقة معيارية رسمية.",
+    "design_rules": [
+      "Keep ingestion, retrieval, policy reasoning, serving and evaluation separable."
+    ]
+  }
+]

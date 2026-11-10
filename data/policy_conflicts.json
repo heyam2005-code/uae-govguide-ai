@@ -1,0 +1,18 @@
+[
+  {
+    "id": "CONFLICT-GDIFA-01",
+    "status": "unresolved_manual_review",
+    "centres": [
+      "AUH-GDIFA",
+      "UAQ-GDIFA"
+    ],
+    "issue_ar": "صفحات بعض الإدارات العامة تذكر خدمات إصدار/تجديد الهوية، في حين تقصر صفحة الأسئلة الشائعة دور الإدارات العامة على الاستفسارات؛ لا نرشحها تلقائيًا قبل التحقق.",
+    "source_urls": [
+      "https://icp.gov.ae/en/faq/",
+      "https://icp.gov.ae/en/ica_chc/customer-happiness-center-for-nationality-and-residency-services-abu-dhabi/",
+      "https://icp.gov.ae/en/ica_chc/customer-happiness-center-for-nationality-and-residency-services-umm-al-quwain/"
+    ],
+    "resolution": "human review, verify with ICP before marking service eligible",
+    "not_legal_violation": true
+  }
+]

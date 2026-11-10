@@ -1,0 +1,6 @@
+﻿service_id,name_en,name_ar,agency,source_url,implementation_status,applicant_categories,notes,reviewed_at
+renew,Identity Card Renewal,تجديد الهوية الإماراتية,ICP,https://icp.gov.ae/en/services-details/?serviceid=64afe3c1035448005bd52e5d,guided,citizen|resident|gcc,Eligibility checks integrated,2026-11-09
+replace,Replace Lost/Damaged Emirates ID,إصدار بدل فاقد أو تالف,ICP,https://icp.gov.ae/en/services-details/?serviceid=64afe3c1035448005bd52e5b,guided,citizen|resident|gcc,Guidance integrated,2026-11-09
+new,New Identity Card Issuance,إصدار الهوية لأول مرة,ICP,https://icp.gov.ae/en/services-details/?serviceid=64afe3c1035448005bd52e5a,guided,citizen|resident|gcc,Guidance integrated,2026-11-09
+delay_exemption,Request for Exemption from Delay Fees,طلب إعفاء من غرامات التأخير,ICP,https://icp.gov.ae/en/services-details/?serviceid=64afe3c1035448005bd52e5f,reference_only,case_dependent,Separate service card: no eligibility engine,2026-11-09
+passport_new,Issue New Passport,إصدار جواز سفر جديد,ICP,https://icp.gov.ae/en/services-details/?serviceid=64afe3c1035448005bd52e79,reference_only,citizen,Separate service card: no eligibility engine,2026-11-09

@@ -1,0 +1,275 @@
+[
+  {
+    "agency": "Federal Authority for Identity, Citizenship, Customs and Port Security (ICP)",
+    "country": "UAE",
+    "channels": [
+      "ICP Smart Services website",
+      "ICP Smart App",
+      "ICP customer happiness centres"
+    ],
+    "official_portal": "https://smartservices.icp.gov.ae/",
+    "login": "UAE PASS",
+    "service_delivery": "5 days (official service-page indicative duration; may vary)",
+    "steps": [
+      {
+        "en": "Open the official ICP Smart Services portal (or ICP app) and select the relevant service.",
+        "ar": "افتح بوابة الخدمات الذكية الرسمية للهيئة أو تطبيق ICP واختر الخدمة المناسبة."
+      },
+      {
+        "en": "Review the retrieved application details and correct any errors.",
+        "ar": "راجع بيانات الطلب واستكمل أي تصحيحات مطلوبة."
+      },
+      {
+        "en": "Supply the category-specific supporting documents if the government integration does not retrieve them.",
+        "ar": "زوّد المستندات الداعمة الخاصة بفئتك إذا لم يسترجعها الربط الحكومي."
+      },
+      {
+        "en": "Pay the amount shown on the official payment screen after verifying the fee category.",
+        "ar": "ادفع المبلغ الظاهر على شاشة الدفع الحكومية بعد التحقق من فئة الرسوم."
+      },
+      {
+        "en": "Complete fingerprints and signature at an ICP centre if required, especially for applicants aged 15 or over.",
+        "ar": "أكمل البصمة والتوقيع في مركز الهيئة إذا طُلب ذلك، لا سيما لمن أتم 15 سنة."
+      },
+      {
+        "en": "Track delivery; standard cards are delivered by approved courier and urgent cards collected from the ICP centre.",
+        "ar": "تابع استلام البطاقة؛ التوصيل العادي عبر الناقل المعتمد والعاجل من مركز الهيئة."
+      }
+    ],
+    "source_checked_at": "2026-11-09",
+    "id": "renew",
+    "source_id": "icp_renew",
+    "code": "377-004-001-009",
+    "name_en": "Emirates ID renewal",
+    "name_ar": "تجديد الهوية الإماراتية",
+    "description_en": "Renew an expired or near-expiry Emirates ID.",
+    "description_ar": "تجديد بطاقة الهوية المنتهية أو التي اقتربت من الانتهاء.",
+    "keywords": [
+      "renew",
+      "renewal",
+      "expire",
+      "expired",
+      "تجديد",
+      "اجدد",
+      "أجدد",
+      "جدد",
+      "بجدد",
+      "انتهت",
+      "تنتهي",
+      "منتهية"
+    ],
+    "eligibility": {
+      "citizen_expiry_window_months": 12,
+      "noncitizen_expiry_window_months": 6,
+      "passport_validity_min_months": 3,
+      "requires_fresh_photo": true,
+      "biometric_age_threshold": 15
+    },
+    "documents": {
+      "citizen": [
+        "Recent personal photo different from existing Emirates ID photo"
+      ],
+      "resident": [
+        "Passport",
+        "Recent personal photo different from existing ID photo",
+        "Residence-related documents may be needed through a linked application depending on status and emirate"
+      ],
+      "gcc": [
+        "Passport",
+        "Recent personal photo",
+        "GCC ID and category-specific proof of qualifying status may be required"
+      ]
+    },
+    "fees": {
+      "citizen_under_21": "AED 100 for five-year ID card",
+      "citizen_21_plus": "AED 200 for ten-year ID card",
+      "resident": "AED 100 per year of residence + AED 100 smart application fee as listed",
+      "gcc": "AED 100 for five-year ID + AED 100 smart application fee as listed",
+      "urgent": "AED 150 additional at an authority service centre where eligible"
+    },
+    "caveats": [
+      "For residents, the identity renewal is linked to residency application in all emirates except Dubai, according to ICP service guidance. Confirm the current Dubai route with the competent authority.",
+      "A passport valid for at least 3 months is stated among renewal conditions.",
+      "Document and fee requirements differ by applicant category; do not assume all items apply to all applicants."
+    ]
+  },
+  {
+    "agency": "Federal Authority for Identity, Citizenship, Customs and Port Security (ICP)",
+    "country": "UAE",
+    "channels": [
+      "ICP Smart Services website",
+      "ICP Smart App",
+      "ICP customer happiness centres"
+    ],
+    "official_portal": "https://smartservices.icp.gov.ae/",
+    "login": "UAE PASS",
+    "service_delivery": "5 days (official service-page indicative duration; may vary)",
+    "steps": [
+      {
+        "en": "Open the official ICP Smart Services portal (or ICP app) and select the relevant service.",
+        "ar": "افتح بوابة الخدمات الذكية الرسمية للهيئة أو تطبيق ICP واختر الخدمة المناسبة."
+      },
+      {
+        "en": "Review the retrieved application details and correct any errors.",
+        "ar": "راجع بيانات الطلب واستكمل أي تصحيحات مطلوبة."
+      },
+      {
+        "en": "Supply the category-specific supporting documents if the government integration does not retrieve them.",
+        "ar": "زوّد المستندات الداعمة الخاصة بفئتك إذا لم يسترجعها الربط الحكومي."
+      },
+      {
+        "en": "Pay the amount shown on the official payment screen after verifying the fee category.",
+        "ar": "ادفع المبلغ الظاهر على شاشة الدفع الحكومية بعد التحقق من فئة الرسوم."
+      },
+      {
+        "en": "Complete fingerprints and signature at an ICP centre if required, especially for applicants aged 15 or over.",
+        "ar": "أكمل البصمة والتوقيع في مركز الهيئة إذا طُلب ذلك، لا سيما لمن أتم 15 سنة."
+      },
+      {
+        "en": "Track delivery; standard cards are delivered by approved courier and urgent cards collected from the ICP centre.",
+        "ar": "تابع استلام البطاقة؛ التوصيل العادي عبر الناقل المعتمد والعاجل من مركز الهيئة."
+      }
+    ],
+    "source_checked_at": "2026-11-09",
+    "id": "replace",
+    "source_id": "icp_replace",
+    "code": "377-004-001-002",
+    "name_en": "Replace lost or damaged Emirates ID",
+    "name_ar": "إصدار بدل فاقد أو تالف للهوية الإماراتية",
+    "description_en": "Replace a lost or damaged card; new card retains original validity.",
+    "description_ar": "طلب بطاقة بدل فاقد أو تالف بنفس مدة صلاحية البطاقة الأصلية.",
+    "keywords": [
+      "lost",
+      "stolen",
+      "missing",
+      "damaged",
+      "replacement",
+      "replace",
+      "بدل فاقد",
+      "بدل تالف",
+      "ضاعت",
+      "فقدت",
+      "مفقودة",
+      "تالفه",
+      "تالفة"
+    ],
+    "eligibility": {
+      "requires_fresh_photo": true,
+      "biometric_age_threshold": 15
+    },
+    "documents": {
+      "citizen": [
+        "Personal photo"
+      ],
+      "resident": [
+        "Passport",
+        "Personal photo",
+        "Proof of UAE residence may be required"
+      ],
+      "gcc": [
+        "Passport",
+        "Personal photo"
+      ]
+    },
+    "fees": {
+      "replacement": "AED 300 base replacement fee",
+      "smart": "AED 100 smart service fee as listed",
+      "urgent": "AED 150 additional for eligible urgent service at ICP centre",
+      "data_update": "AED 150 for replacement data update at an ICP centre, if applicable"
+    },
+    "caveats": [
+      "The replacement is issued for the remaining validity of the original card.",
+      "For a card that has also expired, check whether replacement or renewal is appropriate; do not assume an outcome."
+    ]
+  },
+  {
+    "agency": "Federal Authority for Identity, Citizenship, Customs and Port Security (ICP)",
+    "country": "UAE",
+    "channels": [
+      "ICP Smart Services website",
+      "ICP Smart App",
+      "ICP customer happiness centres"
+    ],
+    "official_portal": "https://smartservices.icp.gov.ae/",
+    "login": "UAE PASS",
+    "service_delivery": "5 days (official service-page indicative duration; may vary)",
+    "steps": [
+      {
+        "en": "Open the official ICP Smart Services portal (or ICP app) and select the relevant service.",
+        "ar": "افتح بوابة الخدمات الذكية الرسمية للهيئة أو تطبيق ICP واختر الخدمة المناسبة."
+      },
+      {
+        "en": "Review the retrieved application details and correct any errors.",
+        "ar": "راجع بيانات الطلب واستكمل أي تصحيحات مطلوبة."
+      },
+      {
+        "en": "Supply the category-specific supporting documents if the government integration does not retrieve them.",
+        "ar": "زوّد المستندات الداعمة الخاصة بفئتك إذا لم يسترجعها الربط الحكومي."
+      },
+      {
+        "en": "Pay the amount shown on the official payment screen after verifying the fee category.",
+        "ar": "ادفع المبلغ الظاهر على شاشة الدفع الحكومية بعد التحقق من فئة الرسوم."
+      },
+      {
+        "en": "Complete fingerprints and signature at an ICP centre if required, especially for applicants aged 15 or over.",
+        "ar": "أكمل البصمة والتوقيع في مركز الهيئة إذا طُلب ذلك، لا سيما لمن أتم 15 سنة."
+      },
+      {
+        "en": "Track delivery; standard cards are delivered by approved courier and urgent cards collected from the ICP centre.",
+        "ar": "تابع استلام البطاقة؛ التوصيل العادي عبر الناقل المعتمد والعاجل من مركز الهيئة."
+      }
+    ],
+    "source_checked_at": "2026-11-09",
+    "id": "new",
+    "source_id": "icp_new",
+    "code": null,
+    "name_en": "First Emirates ID issuance",
+    "name_ar": "إصدار الهوية الإماراتية لأول مرة",
+    "description_en": "Apply for the first Emirates ID card.",
+    "description_ar": "طلب إصدار بطاقة هوية إماراتية لأول مرة.",
+    "keywords": [
+      "first time",
+      "first card",
+      "new id",
+      "first issuance",
+      "issuance",
+      "لأول مرة",
+      "اول مرة",
+      "جديدة",
+      "اصدار",
+      "إصدار"
+    ],
+    "eligibility": {
+      "passport_validity_min_months": 3,
+      "requires_fresh_photo": true,
+      "biometric_age_threshold": 15
+    },
+    "documents": {
+      "citizen": [
+        "Personal photo"
+      ],
+      "resident": [
+        "Passport",
+        "Personal photo",
+        "Proof of residence and any residence-permit-linked documents according to status"
+      ],
+      "gcc": [
+        "Passport",
+        "Personal photo",
+        "Valid GCC ID and additional proof based on qualifying category"
+      ]
+    },
+    "fees": {
+      "citizen_under_21": "AED 100 for five-year ID card",
+      "citizen_21_plus": "AED 200 for ten-year ID card",
+      "resident": "AED 100 per year of residence + AED 100 smart service fee as listed",
+      "gcc": "AED 100 five-year ID + AED 100 smart service fee as listed",
+      "urgent": "AED 150 additional at ICP centres where available"
+    },
+    "caveats": [
+      "For certain residence permit cases, the sponsor may need to submit the linked application.",
+      "A medical fitness result or additional approval may be required for applicable residence cases.",
+      "First-time applicants aged 15 and above need fingerprint and signature procedures."
+    ]
+  }
+]

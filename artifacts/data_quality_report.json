@@ -1,0 +1,13 @@
+{
+  "service_count": 3,
+  "source_count": 13,
+  "policy_count": 6,
+  "centre_count": 8,
+  "indexed_chunks": 44,
+  "analytical_rows": 9,
+  "source_id_reference_integrity": true,
+  "centre_coordinates_present": 0,
+  "centre_hours_verified": 0,
+  "errors": [],
+  "notes": "Centre coordinate/hour completeness reflects intentionally missing unverified data; it is not silently imputed."
+}

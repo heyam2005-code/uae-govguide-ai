@@ -1,0 +1,25 @@
+{
+  "reviewed_at": "2026-11-09",
+  "centre_rows": 13,
+  "active_centres": 10,
+  "closed_centres": 1,
+  "pending_manual_review": 2,
+  "biometrics_only": 3,
+  "emirates_covered_in_curated_data": [
+    "Abu Dhabi",
+    "Dubai",
+    "Fujairah",
+    "Ras Al Khaimah",
+    "Sharjah",
+    "Umm Al Quwain"
+  ],
+  "services_in_catalog": 5,
+  "guided_services": 3,
+  "reference_only_services": 2,
+  "centre_sources_present": 13,
+  "verified_coordinates": 0,
+  "real_distance_calculations_supported": false,
+  "hours_listed": 13,
+  "errors": [],
+  "limitation": "A documented subset of ICP centres, not exhaustive. No verified coordinates. Hours and service availability may change."
+}

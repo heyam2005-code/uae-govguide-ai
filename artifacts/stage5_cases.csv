@@ -1,0 +1,37 @@
+﻿group,case_id,description,expected,actual,passed
+intent,I01,Service intent detection,renew,renew,True
+intent,I02,Service intent detection,renew,renew,True
+intent,I03,Service intent detection,replace,replace,True
+intent,I04,Service intent detection,replace,replace,True
+intent,I05,Service intent detection,new,new,True
+intent,I06,Service intent detection,new,new,True
+rag_recall_at_3,R01,Relevant passage in top-3,renew_fees,renew_intro|renew_eligibility|renew_fees,True
+rag_recall_at_3,R02,Relevant passage in top-3,renew_eligibility,renew_intro|renew_eligibility|renew_step_6,True
+rag_recall_at_3,R03,Relevant passage in top-3,renew_documents,renew_documents|renew_intro|renew_eligibility,True
+rag_recall_at_3,R04,Relevant passage in top-3,replace_fees,replace_caveat_1|replace_fees|replace_caveat_2,True
+rag_recall_at_3,R05,Relevant passage in top-3,new_documents,new_step_3|new_documents|new_intro,True
+rag_recall_at_3,R06,Relevant passage in top-3,renew_step_1,renew_step_2|renew_caveat_2|renew_step_1,True
+policy,P01,Policy gate and route,ready,ready,True
+policy,P02,Policy gate and route,urgent_in_person,urgent_in_person,True
+policy,P03,Policy gate and route,TOO_EARLY,TOO_EARLY|BIOMETRICS_REQUIRED,True
+policy,P04,Policy gate and route,PASSPORT_TOO_SHORT,PASSPORT_TOO_SHORT|COMBINED_RENEWAL_OPTION|BIOMETRICS_REQUIRED,True
+policy,P05,Policy gate and route,PHOTO_MISSING,PHOTO_MISSING|BIOMETRICS_REQUIRED,True
+policy,P06,Policy gate and route,TOO_EARLY,TOO_EARLY|BIOMETRICS_REQUIRED|RESIDENCE_DEPENDENCY,True
+policy,P07,Policy gate and route,COMBINED_RENEWAL_OPTION,PASSPORT_TOO_SHORT|COMBINED_RENEWAL_OPTION|BIOMETRICS_REQUIRED,True
+policy,P08,Policy gate and route,needs_information,needs_information,True
+locator,C01,Service-and-category grounded matching,DXB-BARSHA,DXB-BARSHA,True
+locator,C02,Service-and-category grounded matching,0,0,True
+locator,C03,Service-and-category grounded matching,2,3,True
+locator,C04,Service-and-category grounded matching,0,0,True
+locator,C05,Service-and-category grounded matching,true,true,True
+locator,C06,Service-and-category grounded matching,0,0,True
+locator,C07,Service-and-category grounded matching,true,true,True
+end_to_end,D01,Full dialogue and locator integration,Barsha first,stage=collecting;route=standard_digital;centre_count=3,True
+end_to_end,D02,Full dialogue and locator integration,no false centre,stage=collecting;route=standard_digital;centre_count=0,True
+end_to_end,D03,Full dialogue and locator integration,urgent & centres,stage=ready;route=urgent_in_person;centre_count=3,True
+end_to_end,D04,Full dialogue and locator integration,why answer before missing slots,stage=collecting;route=urgent_in_person;centre_count=N/A,True
+end_to_end,D05,Full dialogue and locator integration,resident digital guidance,stage=ready;route=standard_digital;centre_count=N/A,True
+source_quality,S01,ICP centre references all official,True,True,True
+source_quality,S02,No fabricated coordinates,True,True,True
+source_quality,S03,GhazaI points to Alghazal,True,True,True
+source_quality,S04,Service source tracked,True,True,True

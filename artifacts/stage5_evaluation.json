@@ -1,0 +1,46 @@
+{
+  "type": "offline labelled synthetic test suite",
+  "executed_on": "local deterministic mode",
+  "as_of": "2026-11-09",
+  "total_passed": 36,
+  "total_cases": 36,
+  "percent": 100.0,
+  "groups": {
+    "end_to_end": {
+      "passed": 5,
+      "total": 5,
+      "percent": 100.0
+    },
+    "intent": {
+      "passed": 6,
+      "total": 6,
+      "percent": 100.0
+    },
+    "locator": {
+      "passed": 7,
+      "total": 7,
+      "percent": 100.0
+    },
+    "policy": {
+      "passed": 8,
+      "total": 8,
+      "percent": 100.0
+    },
+    "rag_recall_at_3": {
+      "passed": 6,
+      "total": 6,
+      "percent": 100.0
+    },
+    "source_quality": {
+      "passed": 4,
+      "total": 4,
+      "percent": 100.0
+    }
+  },
+  "notes": [
+    "Curated unit/scenario set; not population accuracy, not live ICP availability.",
+    "RAG recall@3 measured for six fixed labelled queries; no model-generated hallucination metric.",
+    "The cloud LLM integration was not tested in this evaluation.",
+    "No travel-distance or time-savings claims were measured."
+  ]
+}

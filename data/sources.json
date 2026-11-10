@@ -1,0 +1,281 @@
+[
+  {
+    "id": "icp_renew",
+    "title": "Identity Card Renewal",
+    "url": "https://icp.gov.ae/en/services-details/?serviceid=64afe3c1035448005bd52e5d",
+    "publisher": "ICP",
+    "kind": "service",
+    "accessed_at": "2026-11-09",
+    "verification": "manually curated from public official pages; re-check before relying on fee/eligibility"
+  },
+  {
+    "id": "icp_replace",
+    "title": "Replacement of Lost/Damaged ID",
+    "url": "https://icp.gov.ae/en/services-details/?serviceid=64afe3c1035448005bd52e5b",
+    "publisher": "ICP",
+    "kind": "service",
+    "accessed_at": "2026-11-09",
+    "verification": "manually curated from public official pages; re-check before relying on fee/eligibility"
+  },
+  {
+    "id": "icp_new",
+    "title": "New Identity Card Issuance",
+    "url": "https://icp.gov.ae/en/services-details/?serviceid=64afe3c1035448005bd52e5a",
+    "publisher": "ICP",
+    "kind": "service",
+    "accessed_at": "2026-11-09",
+    "verification": "manually curated from public official pages; re-check before relying on fee/eligibility"
+  },
+  {
+    "id": "icp_centers",
+    "title": "ICP Customer Happiness Centers",
+    "url": "https://icp.gov.ae/en/customer-happiness-centers/",
+    "publisher": "ICP",
+    "kind": "centers",
+    "accessed_at": "2026-11-09",
+    "verification": "manually curated from public official pages; re-check before relying on fee/eligibility"
+  },
+  {
+    "id": "uae_pdpl",
+    "title": "UAE Personal Data Protection Law overview",
+    "url": "https://u.ae/en/about-the-uae/digital-uae/data/data-protection-laws",
+    "publisher": "UAE Government Portal",
+    "kind": "policy",
+    "accessed_at": "2026-11-09",
+    "verification": "manually curated from public official pages; re-check before relying on fee/eligibility"
+  },
+  {
+    "id": "uae_ai",
+    "title": "UAE National AI Strategy 2031",
+    "url": "https://u.ae/-/media/AI-publications/UAE-National-Strategy-for-Artificial-Intelligence-2031.pdf",
+    "publisher": "UAE Government Portal",
+    "kind": "strategy",
+    "accessed_at": "2026-11-09",
+    "verification": "manually curated from public official pages; re-check before relying on fee/eligibility"
+  },
+  {
+    "id": "uae_ai_guideline",
+    "title": "AI Adoption Guideline in Government Services",
+    "url": "https://u.ae/-/media/AI-publications/AI-Adoption-Guideline-in-Government-Services-Eng.pdf",
+    "publisher": "UAE Government Portal",
+    "kind": "guideline",
+    "accessed_at": "2026-11-09",
+    "verification": "manually curated from public official pages; re-check before relying on fee/eligibility"
+  },
+  {
+    "id": "uaepass",
+    "title": "UAE PASS",
+    "url": "https://dgov.tdra.gov.ae/services/uae-pass",
+    "publisher": "TDRA Digital Government",
+    "kind": "platform",
+    "accessed_at": "2026-11-09",
+    "verification": "manually curated from public official pages; re-check before relying on fee/eligibility"
+  },
+  {
+    "id": "itu_y3172",
+    "title": "ITU-T Y.3172",
+    "url": "https://www.itu.int/itu-t/recommendations/rec.aspx?rec=13894",
+    "publisher": "ITU",
+    "kind": "standard",
+    "accessed_at": "2026-11-09",
+    "verification": "manually curated from public official pages; re-check before relying on fee/eligibility"
+  },
+  {
+    "id": "itu_readiness",
+    "title": "ITU AI Readiness Framework 2.0, January 2026",
+    "url": "https://www.itu.int/dms_pub/itu-t/opb/ai4g/T-AI4G-AI4GOOD-2025-6-PDF-E.pdf",
+    "publisher": "ITU",
+    "kind": "framework",
+    "accessed_at": "2026-11-09",
+    "verification": "manually curated from public official pages; re-check before relying on fee/eligibility"
+  },
+  {
+    "id": "eu_gdpr",
+    "title": "EU GDPR Article 5 (global comparator)",
+    "url": "https://eur-lex.europa.eu/eli/reg/2016/679/oj/eng/",
+    "publisher": "European Union",
+    "kind": "global_best_practice",
+    "accessed_at": "2026-11-09",
+    "verification": "manually curated from public official pages; re-check before relying on fee/eligibility"
+  },
+  {
+    "id": "uk_api",
+    "title": "GOV.UK API technical and data standards (global comparator)",
+    "url": "https://www.gov.uk/guidance/gds-api-technical-and-data-standards",
+    "publisher": "UK Government",
+    "kind": "global_best_practice",
+    "accessed_at": "2026-11-09",
+    "verification": "manually curated from public official pages; re-check before relying on fee/eligibility"
+  },
+  {
+    "id": "hackathon",
+    "title": "AI for Good Lab UAE Hackathon",
+    "url": "https://aiforgood.itu.int/event/ai-for-good-sandbox-hackathon-united-arab-emirates/",
+    "publisher": "ITU",
+    "kind": "event",
+    "accessed_at": "2026-11-09",
+    "verification": "manually curated from public official pages; re-check before relying on fee/eligibility"
+  },
+  {
+    "id": "center_dxb_barsha",
+    "title": "Al Barsha Customer Happiness Center (ICP centre profile)",
+    "url": "https://icp.gov.ae/en/icp_centers/customer-happiness-center-al-barsha/",
+    "publisher": "ICP",
+    "kind": "center",
+    "accessed_at": "2026-11-09",
+    "verification": "Curated from official ICP centre profile; check hours and transactions before visiting"
+  },
+  {
+    "id": "center_dxb_rashidiya",
+    "title": "Al Rashidiya Customer Happiness Center (ICP centre profile)",
+    "url": "https://icp.gov.ae/en/ica_chc/rashidiya-customer-happiness-center/",
+    "publisher": "ICP",
+    "kind": "center",
+    "accessed_at": "2026-11-09",
+    "verification": "Curated from official ICP centre profile; check hours and transactions before visiting"
+  },
+  {
+    "id": "center_dxb_ghazal",
+    "title": "Al Ghazal Customer Happiness Center (ICP centre profile)",
+    "url": "https://icp.gov.ae/en/icp_centers/customer-happiness-center-alghazal/",
+    "publisher": "ICP",
+    "kind": "center",
+    "accessed_at": "2026-11-09",
+    "verification": "Curated from official ICP centre profile; check hours and transactions before visiting"
+  },
+  {
+    "id": "center_dxb_nahda",
+    "title": "Al Nahda Customer Happiness Center (ICP centre profile)",
+    "url": "https://icp.gov.ae/en/ica_chc/al-nahda-happiness-center/",
+    "publisher": "ICP",
+    "kind": "center",
+    "accessed_at": "2026-11-09",
+    "verification": "Curated from official ICP centre profile; check hours and transactions before visiting"
+  },
+  {
+    "id": "center_dxb_baraha",
+    "title": "Al Baraha Customer Happiness Office (ICP centre profile)",
+    "url": "https://icp.gov.ae/ica_chc/al-baraha-customer-happiness-office/",
+    "publisher": "ICP",
+    "kind": "center",
+    "accessed_at": "2026-11-09",
+    "verification": "Curated from official ICP centre profile; check hours and transactions before visiting"
+  },
+  {
+    "id": "center_auh_khalifa",
+    "title": "Khalifa Customer Happiness Center (ICP centre profile)",
+    "url": "https://icp.gov.ae/en/ica_chc/khalifa-city-happiness-center/",
+    "publisher": "ICP",
+    "kind": "center",
+    "accessed_at": "2026-11-09",
+    "verification": "Curated from official ICP centre profile; check hours and transactions before visiting"
+  },
+  {
+    "id": "center_auh_alain",
+    "title": "Al Ain Customer Happiness Center (ICP centre profile)",
+    "url": "https://icp.gov.ae/en/ica_chc/al-ain-customer-happiness-center/",
+    "publisher": "ICP",
+    "kind": "center",
+    "accessed_at": "2026-11-09",
+    "verification": "Curated from official ICP centre profile; check hours and transactions before visiting"
+  },
+  {
+    "id": "center_auh_gdifa",
+    "title": "General Directorate of Identity and Foreigners Affairs – Abu Dhabi (ICP centre profile)",
+    "url": "https://icp.gov.ae/en/ica_chc/customer-happiness-center-for-nationality-and-residency-services-abu-dhabi/",
+    "publisher": "ICP",
+    "kind": "center",
+    "accessed_at": "2026-11-09",
+    "verification": "Curated from official ICP centre profile; check hours and transactions before visiting"
+  },
+  {
+    "id": "center_rak_centre",
+    "title": "Ras Al Khaimah Customer Happiness Center (ICP centre profile)",
+    "url": "https://icp.gov.ae/en/ica_chc/ras-al-khaimah-customer-happiness-center/",
+    "publisher": "ICP",
+    "kind": "center",
+    "accessed_at": "2026-11-09",
+    "verification": "Curated from official ICP centre profile; check hours and transactions before visiting"
+  },
+  {
+    "id": "center_fuj_centre",
+    "title": "Fujairah Customer Happiness Center (ICP centre profile)",
+    "url": "https://icp.gov.ae/en/ica_chc/fujairah-customer-happiness-center/",
+    "publisher": "ICP",
+    "kind": "center",
+    "accessed_at": "2026-11-09",
+    "verification": "Curated from official ICP centre profile; check hours and transactions before visiting"
+  },
+  {
+    "id": "center_uaq_gdifa",
+    "title": "General Directorate of Identity and Foreigners Affairs – Umm Al Quwain (ICP centre profile)",
+    "url": "https://icp.gov.ae/en/ica_chc/customer-happiness-center-for-nationality-and-residency-services-umm-al-quwain/",
+    "publisher": "ICP",
+    "kind": "center",
+    "accessed_at": "2026-11-09",
+    "verification": "Curated from official ICP centre profile; check hours and transactions before visiting"
+  },
+  {
+    "id": "center_shj_ghubaiba",
+    "title": "Al Ghubaiba Customer Happiness Center (ICP centre profile)",
+    "url": "https://icp.gov.ae/en/icp_centers/customer-happiness-center-al-ghubaiba/",
+    "publisher": "ICP",
+    "kind": "center",
+    "accessed_at": "2026-11-09",
+    "verification": "Curated from official ICP centre profile; check hours and transactions before visiting"
+  },
+  {
+    "id": "center_shj_closed",
+    "title": "Sharjah Customer Happiness Center (ICP centre profile)",
+    "url": "https://icp.gov.ae/en/customer-happiness-centers/",
+    "publisher": "ICP",
+    "kind": "center",
+    "accessed_at": "2026-11-09",
+    "verification": "Curated from official ICP centre profile; check hours and transactions before visiting"
+  },
+  {
+    "id": "catalog_renew",
+    "title": "Identity Card Renewal",
+    "url": "https://icp.gov.ae/en/services-details/?serviceid=64afe3c1035448005bd52e5d",
+    "publisher": "ICP",
+    "kind": "service",
+    "accessed_at": "2026-11-09",
+    "verification": "Reference-only discovery if not guided"
+  },
+  {
+    "id": "catalog_replace",
+    "title": "Replace Lost/Damaged Emirates ID",
+    "url": "https://icp.gov.ae/en/services-details/?serviceid=64afe3c1035448005bd52e5b",
+    "publisher": "ICP",
+    "kind": "service",
+    "accessed_at": "2026-11-09",
+    "verification": "Reference-only discovery if not guided"
+  },
+  {
+    "id": "catalog_new",
+    "title": "New Identity Card Issuance",
+    "url": "https://icp.gov.ae/en/services-details/?serviceid=64afe3c1035448005bd52e5a",
+    "publisher": "ICP",
+    "kind": "service",
+    "accessed_at": "2026-11-09",
+    "verification": "Reference-only discovery if not guided"
+  },
+  {
+    "id": "catalog_delay_exemption",
+    "title": "Request for Exemption from Delay Fees",
+    "url": "https://icp.gov.ae/en/services-details/?serviceid=64afe3c1035448005bd52e5f",
+    "publisher": "ICP",
+    "kind": "service",
+    "accessed_at": "2026-11-09",
+    "verification": "Reference-only discovery if not guided"
+  },
+  {
+    "id": "catalog_passport_new",
+    "title": "Issue New Passport",
+    "url": "https://icp.gov.ae/en/services-details/?serviceid=64afe3c1035448005bd52e79",
+    "publisher": "ICP",
+    "kind": "service",
+    "accessed_at": "2026-11-09",
+    "verification": "Reference-only discovery if not guided"
+  }
+]
